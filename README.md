@@ -1,4 +1,4 @@
-# Protoype ahooter from Marks shooter
+# Protoype Shooter from Marks shooter
 
 using this to learn all the mechanics 
 
